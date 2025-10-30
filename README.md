@@ -3,12 +3,12 @@ This repository presents a series of machine learning projects developed from fi
 
 # Included Projects
 1- Linear Regression (from scratch) – Predicting continuous outcomes using gradient descent  
-2- Logistic Regression / Classification – Implementing binary classification on real-world datasets  
-3- K-Means Clustering / PCA – Exploring unsupervised learning and dimensionality reduction  
+2- Logistic Regression (from scratch) – Implementing binary classification on real-world datasets  
+3- K-Means Clustering – Exploring unsupervised learning and dimensionality reduction  
 4- Simple Neural Network – Constructing a feed-forward neural network for image classification  
 
 # Objectives
-Reinforce theoretical understanding of machine learning fundamentals and related mathimatiical concepts  
+Reinforce theoretical understanding of machine learning fundamentals and related mathematical concepts
 Develop practical implementation skills through low-level coding  
 Build a structured portfolio that demonstrates foundational competency in data science and AI  
 
