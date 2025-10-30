@@ -8,7 +8,7 @@ This repository presents a series of machine learning projects developed from fi
 4- Simple Neural Network – Constructing a feed-forward neural network for image classification  
 
 # Objectives
-Reinforce theoretical understanding of machine learning fundamentals and related mathematical concepts
+Reinforce theoretical understanding of machine learning fundamentals and related mathematical concepts  
 Develop practical implementation skills through low-level coding  
 Build a structured portfolio that demonstrates foundational competency in data science and AI  
 
